@@ -1,0 +1,40 @@
+.body{
+    background-color: black;
+    color: red
+}
+
+.header-1{
+    color: gold;
+    font-family: "Papyrus","Copperplate","Times New Roman";
+    text-align: center;
+    font-size: 50px;
+}
+
+.bar_tender{
+    padding-bottom: 50px;
+}
+
+.viking_horn_1{
+    margin:left;
+    padding-left:25px;
+    padding-right:10px;
+    padding-bottom: 50px;
+}
+
+.viking_horn_2{
+    margin:right;
+    padding-left:10px;
+    padding-right:25px;
+    padding-bottom: 50px;
+}
+
+a{
+    color: gold;
+    font-family: "Papyrus","Copperplate","Times New Roman";
+    font-size: 20px;
+}
+
+p{
+    padding-left:100px;
+    padding-bottom: 50px;
+}
