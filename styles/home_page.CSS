@@ -1,8 +1,3 @@
-.body{
-    background-color: black;
-    color: red
-}
-
 .header-1{
     color: gold;
     font-family: "Papyrus","Copperplate","Times New Roman";
@@ -10,31 +5,26 @@
     font-size: 50px;
 }
 
+.header_photos{
+    display:flex;
+    justify-content: center;
+}
+
 .bar_tender{
+    padding-left: 50px;
+    padding-right: 50px;
     padding-bottom: 50px;
 }
 
-.viking_horn_1{
-    margin:left;
-    padding-left:25px;
-    padding-right:10px;
-    padding-bottom: 50px;
-}
-
-.viking_horn_2{
-    margin:right;
-    padding-left:10px;
-    padding-right:25px;
-    padding-bottom: 50px;
+div{
+    block-size: auto;
+   text-align: center;
 }
 
 a{
+    display: block;
     color: gold;
     font-family: "Papyrus","Copperplate","Times New Roman";
     font-size: 20px;
-}
-
-p{
-    padding-left:100px;
-    padding-bottom: 50px;
+    padding: 10px;
 }
